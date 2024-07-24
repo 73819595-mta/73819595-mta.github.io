@@ -75,7 +75,8 @@ section {
 }
 
 h2 {
-    color: #C45D12;
+    color: blanchedalmond;
+    background: #C45D12;
     border-bottom: 2px solid #C45D12;
     padding-bottom: 5px;
 }
